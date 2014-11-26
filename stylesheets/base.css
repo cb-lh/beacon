@@ -51,7 +51,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #e5e0c6 url('../images/campfire.jpg') top center no-repeat;
+		background: #e5e0c6 url('../images/') top center no-repeat;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #555;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
